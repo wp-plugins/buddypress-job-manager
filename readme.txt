@@ -19,6 +19,24 @@ Applications, Bookmarks and Job Alerts.
 
 A separate tab will be available in the user profile for every installed extension.
 
+<strong>Please visit below link to check details of it: http://buddypress-job-manager.opentuteplus.com/ </strong>
+<blockquote>
+In free version it only integrates Applications, Bookmarks and Job Alerts. 
+<p>User Access: Please login using below access.
+	Please use this access:
+	user:job-manager
+	pass: job-manager
+</p>
+</blockquote>
+<blockquote>
+	<p><strong> Buddypress Job Manager -- Premium plugin (http://shop.opentuteplus.com/product/buddypress-job-manager/)</strong></p>
+	<p>This BuddyPress component is for adding Job Manager to user profile ( for BuddyPress ). This plugin needs BuddyPress,WP Job Manager and compatible with WP Job Manager - Applications,WP Job Manager - Resume Manager, WP Job Manager - Bookmarks,WP Job Manager - Job Alerts.</p>
+	
+	<strong>Premium plugin Demo: http://buddypress-job-manager.opentuteplus.com/ </strong>
+	
+</blockquote>
+
+
 == Installation ==
 
 This very simple like other wordpress plugin:
