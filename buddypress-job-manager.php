@@ -5,7 +5,7 @@ Plugin URI: http://buddypress-job-manager.opentuteplus.com/
 Description: This plugin integrated WP Job Manager into your BuddyPress user profiles. This plugin needs BuddyPress and WP Job Manager to be installed.
 Author: Kishore Sahoo
 Author URI: http://blog.kishorechandra.co.in/
-Version: 1.0.1
+Version: 1.0.0
 Requires at least: WP 3.8, BuddyPress 2.1.1
 Tested up to: WP 4.1.1, BuddyPress 2.2.1
 Network: true
