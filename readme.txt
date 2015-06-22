@@ -1,9 +1,9 @@
 === BuddyPress Job Manager ===
 Contributors: kishores
 Donate link:  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L5DAL9AXTAG8L
-Tags: BuddyPress, WP Job Manager, WP Job Manager - Applications, WP Job Manager - Bookmarks, WP Job Manager - Job Alerts
+Tags: buddypress, wp-job-manager, wp-job-manager-applications, wp-job-manager-bookmarks, wp-job-manager-job-alerts
 Requires at least: WP 3.8, BuddyPress 2.1.1
-Tested up to: WP 4.1.1, BuddyPress 2.2.1
+Tested up to: WP 4.2.2, BuddyPress 2.3.2.1
 Stable tag: 1.0.0
 License: v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
